@@ -11,7 +11,7 @@ from torchvision.utils import draw_bounding_boxes
 st.markdown("""
     <style>
         .stApp {
-            background-image: url("https://images.unsplash.com/photo-1534854638093-bada1813ca19?auto=format&fit=crop&w=1470&q=80");
+            background-image: url("https://github.com/AkshayShetty188/Object-Detection-And-Narration/blob/main/bg2.png");
             background-size: cover;
             background-attachment: fixed;
             background-repeat: no-repeat;
