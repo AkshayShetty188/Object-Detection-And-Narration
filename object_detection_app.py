@@ -25,11 +25,6 @@ st.markdown("""
         h1, h2, h3, p, label {
             color: #f1f1f1;
         }
-        .stFileUploader {
-            background-color: #ffffff10;
-            border: 1px solid #cccccc40;
-            border-radius: 0.5rem;
-        }
     </style>
 """, unsafe_allow_html=True)
 
